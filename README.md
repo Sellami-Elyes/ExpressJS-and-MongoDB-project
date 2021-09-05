@@ -1,7 +1,7 @@
 [README.md](https://github.com/Sellami-Elyes/ExpressJS-and-MongoDB-project/files/7111789/README.md)
 # ExpressJS-and-MongoDB-project
-# This project is based on the latest version of Express JS. 
-# It mainly consists on   : 
+- This project is based on the latest version of Express JS. 
+- It mainly consists on   : 
      • How to properly set a secure connection to a MongoDB
      • Basic CRUD ( Create, Read, Update and Delete ) items from the database
      • CORS fix
